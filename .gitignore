@@ -1,0 +1,25 @@
+# Build artifacts
+bin/
+obj/
+
+# Rider-specific files
+.idea/
+riderModule.iml
+/_ReSharper.Caches/
+
+# NuGet packages
+/packages/
+
+# User-specific files
+*.user
+*.suo
+*.vs
+*.vscode/
+*.sln.iml
+
+# Temporary files
+*.log
+*.tmp
+
+# Dotnet dependencies
+project.lock.json
